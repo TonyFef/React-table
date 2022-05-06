@@ -4,7 +4,7 @@ Pet-project using React.
 You can find JS-table repo in my GitHub, so this is the inpretation using React.
 Due to the fact that it was the first try of React and the project is small there are no components folder and structure at all.
 
-Made by Fefilov Anton, junior Fronted develope
+Made by Fefilov Anton, junior Frontend develope
 
 
 In the project directory, you can run:
